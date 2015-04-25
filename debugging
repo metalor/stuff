@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+
+
+<script>
+//declares a and b
+a = 5;
+b = 6;
+//for loop adds a and b and outputs c 5 times
+for (i=0;i<5;i++){
+c = a + b;
+console.log(c);
+}
+</script>
+
+</body>
+</html> 
