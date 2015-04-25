@@ -12,7 +12,7 @@ b = 6;
 for (i=0;i<5;i++){
 c = a + b;
 console.log(c);
-console.alert(c);
+alert(c);
 }
 </script>
 
